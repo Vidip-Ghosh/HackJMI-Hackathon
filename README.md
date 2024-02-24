@@ -1,1 +1,1 @@
-# HackHurricaneHackathon
+# HackJMIHackathon
