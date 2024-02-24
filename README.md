@@ -1,1 +1,1 @@
-# HackJMIHackathon
+# Hack JMI Hackathon
